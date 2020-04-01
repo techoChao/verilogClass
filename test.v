@@ -1,5 +1,5 @@
 module test();
 
-wire b;
+wire b,c;
 endmodule
 
